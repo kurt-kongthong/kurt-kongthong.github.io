@@ -11,3 +11,5 @@ Welcome to my personal website — my digital collection of writings, ideas, and
 I earned a PhD in Immunology from Harvard where I studied autoimmune diseases and stromal cell biology.  
 
 You can find my resume [here](#).
+
+[Biotech](biotech.md) | [Poetry](poetry.md) | [Philosophy](philosophy.md)
