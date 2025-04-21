@@ -1,3 +1,6 @@
+---
+layout: default
+---
 > “In every collector hides an allegorist, and in every allegorist a collector.”  
 > — *Walter Benjamin, The Arcades Project*
 
