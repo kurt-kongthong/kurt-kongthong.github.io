@@ -1,3 +1,4 @@
-footer, .header-link, a[href*="github.com/kurt-kongthong"] {
+/* Hide the GitHub profile sidebar section */
+.sidebar a[href*="github.com"] {
   display: none !important;
 }
