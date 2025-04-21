@@ -1,7 +1,7 @@
 > “In every collector hides an allegorist, and in every allegorist a collector.”  
 > — *Walter Benjamin, The Arcades Project*
 
----
+
 
 Welcome to my personal website — my digital collection of writings, ideas, and perspectives that intrigue, inspire, and challenge. Here you'll find curated content on biotech, poetry, philosophy, and more.
 
