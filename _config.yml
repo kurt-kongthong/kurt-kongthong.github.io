@@ -1,6 +1,5 @@
 title: Kurt’s blog
 description: A digital repository of works that have shaped my thinking.
 theme: jekyll-theme-minimal
-
 include:
   - assets/custom.css
