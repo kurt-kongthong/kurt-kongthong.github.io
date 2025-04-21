@@ -12,4 +12,8 @@ I earned a PhD in Immunology from Harvard where I studied autoimmune diseases an
 
 You can find my resume [here](#).
 
-[Biotech](biotech.md) | [Poetry](poetry.md) | [Philosophy](philosophy.md)
+**Explore:**
+
+<a href="/biotech" target="_blank">Biotech</a> |
+<a href="/poetry" target="_blank">Poetry</a> |
+<a href="/philosophy" target="_blank">Philosophy</a>
